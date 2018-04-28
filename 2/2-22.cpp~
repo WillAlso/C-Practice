@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int N,a,m;
+	cin >> N >> a >> m;
+	
+	return 0;
+}

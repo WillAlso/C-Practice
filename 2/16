@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ 2-16.cpp -o main
+./main

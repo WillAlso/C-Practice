@@ -1,0 +1,4 @@
+#!/bin/bash
+g++ 2-2.cpp -o main
+./main
+vim 2-3.cpp
